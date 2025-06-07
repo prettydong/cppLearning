@@ -1,0 +1,6 @@
+# CMake / Build files
+build/
+*.DS_Store
+
+# VS Code specific
+.vscode/ 
